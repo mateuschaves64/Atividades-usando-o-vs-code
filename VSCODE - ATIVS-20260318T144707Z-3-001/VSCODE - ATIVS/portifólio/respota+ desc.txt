@@ -1,0 +1,6 @@
+C1: Criou o arquivo baseado no projeto anteriormente criado
+C2: Primneira funcionalidade (Corpo básico do html)
+C3: Adiciona a documentação do arquivo de configuração
+C4: há um erro porposital
+
+(O erro da c4 não está na c2)
